@@ -3,4 +3,4 @@
 Advanced Movie Recommendor System using following methods: -
 
 1. Content Based Recommendations
-2. Collaborative Filtering
+2. Collaborative Filtering Based Recommendations
