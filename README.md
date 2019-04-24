@@ -2,5 +2,5 @@
 
 Advanced Movie Recommendor System using following methods: -
 
-1. Content Based Recommendations
-2. Collaborative Filtering Based Recommendations
+1. Content Based Recommendation Engine
+2. Collaborative Filtering Based Recommendation Engine
